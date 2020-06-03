@@ -1,4 +1,4 @@
-baseurl = "https://www.devpatel.netlify.com"
+baseurl = "https://www.devpatel.onrender.com"
 title = "devpatel"
 
 theme = "hugo-coder"
