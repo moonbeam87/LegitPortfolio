@@ -1,4 +1,4 @@
-baseurl = "https://www.devpatel.onrender.com"
+baseurl = "http://www.devpatel.onrender.com"
 title = "devpatel"
 
 theme = "hugo-coder"
